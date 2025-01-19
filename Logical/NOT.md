@@ -1,4 +1,4 @@
-# 16bit Logical AND
+# 16bit Logical NOT
 
 | Address | Mnemonics |
 |---------|-----------|
